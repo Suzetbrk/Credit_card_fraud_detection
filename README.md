@@ -6,7 +6,3 @@ experiment with different classifers on the binary classifcation problem of anom
 confdentiality issues, the background information about the features will not be described. You only know that the first attribute describes the dollar amount in the transaction and the class output is either 0 for
 normal or 1 for fraud
 
-Dataset Training Cases:200000
-Test Cases: 50000
-Dimensionality:29
-Number of Classes: 2
